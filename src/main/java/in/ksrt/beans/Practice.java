@@ -1,7 +1,7 @@
 package in.ksrt.beans;
 
 public class Practice {
-	private int b;
+	public m1();
 	public static void isplay() {
 		
 	}
